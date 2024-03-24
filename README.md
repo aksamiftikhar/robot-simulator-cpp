@@ -1,4 +1,4 @@
-# robot-simulator-cpp
+# Robot simulator
 Multi-threaded Robot Movement Simulator
 
 This program simulates autonomous robots running around a 2D world in a multi-threaded program environment. 
