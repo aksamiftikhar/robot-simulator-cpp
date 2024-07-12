@@ -6,7 +6,10 @@
 
 int main(int argc, char **argv)
 {
+<<<<<<< HEAD
   // just a new comment added
+=======
+>>>>>>> 3df3c0a7f75dd92e36b67716b7f8648146433259
   // You should customize this data structure and the World constructor to
   // match your chosen data structure.
   char myMap[7][7] = {
@@ -19,6 +22,11 @@ int main(int argc, char **argv)
       {'1', '1', '1', '1', '1', '1', '1'},
   };
 
+<<<<<<< HEAD
+=======
+  // comment in main from second user
+
+>>>>>>> 3df3c0a7f75dd92e36b67716b7f8648146433259
   // World w;      // uninitialized (empty) world
   World w(myMap); // world initialized to myMap
 
